@@ -71,7 +71,6 @@ public class AppActivity extends AppCompatActivity implements BottomNavigationCo
                 } else if ("fragment_notifications".equals(destination.getLabel())) {
                 } else if ("fragment_account".equals(destination.getLabel())) {
                 }
-                //
             }
         });
     }
